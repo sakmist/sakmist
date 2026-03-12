@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakmist&theme=github_dark&hide=verilog">
 
 ## Brief introduction
-- 👨‍🎓 I'm just a student and u can call me nk.
+- 👨‍🎓 I'm just a student and u can call me sakmist.
 - 💬 I'm somehow familiar with these languages: Python, C++, Javascript, HTML, CSS,Go,Nodejs.
 - 🥰 My favorite language: 🐍.
 - 🔭 I’m currently working on my interest.
@@ -11,7 +11,7 @@
 
 ## 简短介绍
 
-- 👨‍🎓我只是一个学生，你可以叫我甯衎。
+- 👨‍🎓我只是一个学生，你可以叫我sakmist。
 - 💬我熟悉这些:Python, c++， Javascript, HTML, CSS,Go,Nodejs。
 - 🥰我最喜欢的:🐍。
 - 🔭我目前正在做我感兴趣的工作。
